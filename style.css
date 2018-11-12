@@ -88,11 +88,43 @@ body{
 .grupo2{
 	background-color: #EEEEEE;
 	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	text-align: center;
+	padding: 20px;
 }
 .grupo2 h2{
 	font-family: 'Roboto', sans-serif;
-	text-align: center;
-	padding-top: 20px;
+}
+.grupo2{
+}
+#inscribete{
+	background-color: #008CBA;
+	border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	padding: 10px 20px;
+	border-radius: 8px;
+}
+.grupo3{
+	position: relative;
+	height: 200px;
+}
+.contacto{
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	top: 10%;
+	left: 35%;
+}
+.suscribete{
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+}
+.suscribete div{
+	display: inline-block;
 }
 footer{
 	height: 50px;
